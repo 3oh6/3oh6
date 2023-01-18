@@ -3,8 +3,9 @@
 I guess I will share my development exploration here as I shift back to primarily pursuing web development. Building off a long WordPress history, I am now exploring the Jamstack world to solve problems. I can't lie, it is kind of like magic at times.
 
 ## Currently ...
+- 🎨 Updating a number of client sites including https://teepeetreats.com (WP + WC), https://peipeicheiow.com (WP), https://indigenousbitters.ca (WP + WC)
 - 🏗 Building a Strava API + WooComm race bib & merchandise sales integrated with Strava based GPS race timing
-- 👷‍♀️ Always refactoring https://jodybailey.ca (WP), https://3am.coffee (WP + WooCommerce), & https://3oh6.com (Gatsby)
+- 👷‍♀️ Always refactoring https://jodybailey.ca (WP), https://3am.coffee (WP + WC + Booking), & https://3oh6.com (Gatsby)
 
 ## Skills ...
 - ⚡️⚡️⚡️⚡️⚡️  HTML / CSS (SASS + Grunt) / Performance focused Front End Dev
